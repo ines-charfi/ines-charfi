@@ -2,7 +2,7 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 </div>
 ## Bienvenue sur le Portefolio de INES CHARFI 👋
-<img src="https://github.com/ines-charfi/ines-charfi/blob/main/Purple%20and%20Blue%20Modern%20Y2K%20Thank%20You%2010K%20Followers%20Banner.png" />
+<img src="https://github.com/ines-charfi/ines-charfi/blob/main/BANNER.png" />
 
 
 Je suis **étudiante en cybersécurité** passionnée par la protection des systèmes informatiques et la gestion des risques liés à la sécurité des données. Mon objectif est d’acquérir des compétences pratiques et avoir une expérience proffessionnelle.
